@@ -30,3 +30,14 @@ body
 {
     font-size: 2rem;
 }
+
+.nav-bg
+{
+    background-color: var(--secundario);
+}
+
+.contenedor
+{
+    width: 120rem;
+    margin: 0 auto;
+}
